@@ -1,0 +1,12 @@
+/Users/samreenadil/eclipse-workspace/HubSpotApplication/src/main/java/com/qa/hubspot/utils/ExcelUtil.java
+/Users/samreenadil/eclipse-workspace/HubSpotApplication/src/main/java/com/qa/hubspot/utils/Constants.java
+/Users/samreenadil/eclipse-workspace/HubSpotApplication/src/main/java/com/qa/hubspot/base/BasePage.java
+/Users/samreenadil/eclipse-workspace/HubSpotApplication/src/main/java/com/qa/hubspot/pages/HomePage.java
+/Users/samreenadil/eclipse-workspace/HubSpotApplication/src/main/java/com/qa/hubspot/pages/LoginPage.java
+/Users/samreenadil/eclipse-workspace/HubSpotApplication/src/main/java/com/qa/hubspot/utils/OptionsManager.java
+/Users/samreenadil/eclipse-workspace/HubSpotApplication/src/main/java/com/qa/hubspot/base/BaseTest.java
+/Users/samreenadil/eclipse-workspace/HubSpotApplication/src/main/java/com/qa/hubspot/testlisteners/TestAllureListener.java
+/Users/samreenadil/eclipse-workspace/HubSpotApplication/src/main/java/com/qa/hubspot/testlisteners/ExtentReportListener.java
+/Users/samreenadil/eclipse-workspace/HubSpotApplication/src/main/java/com/qa/hubspot/utils/ElementUtil.java
+/Users/samreenadil/eclipse-workspace/HubSpotApplication/src/main/java/com/qa/hubspot/utils/JavaScriptUtil.java
+/Users/samreenadil/eclipse-workspace/HubSpotApplication/src/main/java/com/qa/hubspot/pages/ContactsPage.java
